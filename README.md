@@ -37,9 +37,9 @@ This analysis was created to determine the winner of the elections and determine
 ## Challenge Summary
 - There were 369.711 votes cast in the election. 
 - Breakdown of votes by county:
-   *Jefferson: 10.5% (38,855)
-   *Denver: 82.8% (306,055)
-   *Arapahoe: 6.7% (24,801)
+- Jefferson: 10.5% (38,855)
+- Denver: 82.8% (306,055)
+- Arapahoe: 6.7% (24,801)
 - Denver county had the largest number of votes. 
 - The winner of the election was Diana DeGette who received 73.8% or 272,892 votes.
 
